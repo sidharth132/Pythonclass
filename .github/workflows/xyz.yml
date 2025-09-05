@@ -1,0 +1,7 @@
+name: 1st job
+on:
+ push:
+ watch:
+  name: main
+  
+  
